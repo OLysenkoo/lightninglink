@@ -1,6 +1,6 @@
 # Introduction
 
-OLysenko (collectively,  “we” or “us”) operates https://github.com/OLysenkoo/lightninglink website and developes, publishes, markets and commercializes a variety of games for use on various platforms, including mobile devices (our “Applications”) through which we offer relating game play and social gaming services (collectively, the “Services”).
+Ajax Systems (collectively,  “we” or “us”) operates https://github.com/OLysenkoo/lightninglink website and developes, publishes, markets and commercializes a variety of games for use on various platforms, including mobile devices (our “Applications”) through which we offer relating game play and social gaming services (collectively, the “Services”).
 
 ## Notice
 We respect your privacy and are committed to protecting personal information that you provide in connection with your use of the Services. This Privacy Policy is intended to provide notice of our information practices, including the types of information gathered, how information is used and safeguarded, and how you may control the maintenance and sharing of your information.
